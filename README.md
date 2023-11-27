@@ -1,1 +1,1 @@
-# bakary
+# bakery
